@@ -1,13 +1,7 @@
-<details>
-<summary><strong>👋 Hi, I’m @zasuklotur</strong></summary>
-
-👀 Traveling the world, capturing impressions in code and photos. 🌎📸
 🌱 I’m constantly exploring new destinations and using technology to document my experiences.
 💞️ I’m interested in collaborating on projects that combine travel, photography, and coding.
 📫 You can reach me via email: zasuklotur@gmail.com
 </details>
-
-Sample Repository: Simple Travel Photo Showcase Website
 
 ```html
 <!DOCTYPE html>
